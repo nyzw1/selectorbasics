@@ -74,6 +74,6 @@ body {
     .worker {
         width: 300px;
         height: auto;
-        float: left;
-        margin-right: 25px;
+        float: right;
+        margin-left: 25px;
     }
